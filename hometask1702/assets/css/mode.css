@@ -1,0 +1,16 @@
+i{
+    font-size: 35px;
+    margin: 100px;
+    cursor: pointer;
+}
+
+
+.light-mode{
+    background-color: white;
+    color: black;
+}
+
+.dark-mode{
+    background-color: black;
+    color: yellow;
+}
